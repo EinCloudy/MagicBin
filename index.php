@@ -16,7 +16,7 @@
 		</script>
 		<div class="bottomrow">
 			<font face="Courier New">
-				<p id="bottom">&copy; Magic4D | 0 B used</p>
+				<p id="bottom">&copy; MagicBin | 0 B used</p>
 			</font>
 		</div>
 	</body>
