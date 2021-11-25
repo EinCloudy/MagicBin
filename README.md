@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/hTGxGZY.png">
 <h2>Intro</h2>
 <p>MagicBin is a text uploader which enables a kind of PasteBin to be operated on its own web server.
-MagicBin is an efficient and fast solution to transfer texts quickly. The interface is kept simple and saving can be done quickly with the familiar <b>CTRL + V</b> hotkey.</p>
+MagicBin is an efficient and fast solution to transfer texts quickly. The interface is kept simple and saving can be done quickly with the familiar <b>CTRL + S</b> hotkey.</p>
 <h2>Making MagicBin better together</h2>
 <p>Do you have ideas or suggestions for improvement for MagicBin? Feel free to send it to us or adapt it yourself via a pull request. :)</p>
 <h2>License</h2>
